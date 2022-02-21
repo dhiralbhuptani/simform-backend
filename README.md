@@ -17,3 +17,4 @@
 ## Databases
 
 By default, the template is configured to connect with MongoDB database.
+DB dump CSV example file is in db/ directory.
